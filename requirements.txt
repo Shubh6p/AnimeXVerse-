@@ -13,3 +13,4 @@ apscheduler
 requests
 pyromod
 colorama
+pyrogram==2.0.106
